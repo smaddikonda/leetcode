@@ -25,3 +25,8 @@ hs_err_pid*
 .project
 /bin/
 .classpath
+/out/
+/out
+.idea/
+.idea
+*.iml
